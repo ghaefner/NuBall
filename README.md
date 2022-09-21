@@ -3,10 +3,10 @@
 NuBall Analysis Code(s)
 -------------------------
 
-This code is based on Jon's ReadEvents8.cxx 
-and modified to be programmed in OOP. La-
-bels are changed to be clearer and histo-
-grams are named properly. 
+This code is based on Jon Wilson's 
+ReadEvents8.cxx and modified to be pro-
+grammed in OOP. Labels are changed to be 
+clearer and histograms are named properly. 
 
 ReadEvents.cxx is the main code which 
 - Unpacks events.
